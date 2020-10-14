@@ -1,2 +1,2 @@
 # GameDevelop
-Es una de videojuegos
+Es una de Pagina videojuegos
